@@ -13,7 +13,6 @@ library(mltools)
 library(gridExtra)
 library(parallel)
 library(Matrix) # convenient to deal with sparse matrices, has sparseMatrix() in it
-setwd("~/robsel-reproducible/simulation")
 source(file="simulation_source_functions.R")
 
 #ER_graph
